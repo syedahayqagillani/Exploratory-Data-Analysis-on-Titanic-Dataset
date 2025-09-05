@@ -68,7 +68,7 @@ The goal is to clean the data, handle missing values, and extract insights about
 ## 🚀 How to Run
 1. Clone this repository  
 2. Install required libraries:
-   ```bashpip install pandas numpy matplotlib seaborn
+   pip install pandas numpy matplotlib seaborn
   
 📌 Covered Topics
 
