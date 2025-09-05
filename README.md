@@ -69,6 +69,7 @@ The goal is to clean the data, handle missing values, and extract insights about
 1. Clone this repository  
 2. Install required libraries:
    ```bash
+  pip install pandas numpy matplotlib seaborn
 📌 Covered Topics
 
 Data Cleaning & Preprocessing
@@ -86,5 +87,5 @@ Visualization with Matplotlib & Seaborn
 Syeda Hayqa Gillani
 
 GitHub:https://github.com/syedahayqagillani
-   pip install pandas numpy matplotlib seaborn
+ 
 
